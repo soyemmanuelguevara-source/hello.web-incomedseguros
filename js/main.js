@@ -117,7 +117,7 @@
         return;
       }
 
-      const phone = '522221825587';
+      const phone = '522215735382';
       const text  = encodeURIComponent(
         `Hola Incomed Seguros 🛡️\n\nSoy *${name}*.\nMe interesa: *${interest}*.\n\n${message}`
       );
